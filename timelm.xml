@@ -12,6 +12,5 @@
   <!-- Vendor -->
   <project name="kiy017/proprietary_vendor_lge_timelm" path="vendor/lge/timelm" remote="github" revision="lineage-23.2" />
 
-  <remove-project name="platform/prebuilts/misc/protobuf_vendorcompat" />
   <remove-project name="prebuilts/misc/protobuf_vendorcompat" />
 </manifest>
