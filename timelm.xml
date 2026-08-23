@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="Evolution-X-Devices/android_device_lge_timelm" path="device/lge/timelm" remote="github" revision="bka" />
+  <project name="Evolution-X-Devices/device_lge_timelm" path="device/lge/timelm" remote="github" revision="bka" />
 
   <!-- Hardware -->
   <project name="Evolution-X-Devices/hardware_lge" path="hardware/lge" remote="github" revision="bka" />
