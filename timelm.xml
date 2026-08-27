@@ -10,6 +10,6 @@
   <project name="Evolution-X-Devices/kernel_lge_sm8250" path="kernel/lge/sm8250" remote="github" revision="bka" />
 
   <!-- Vendor -->
-  <project name="Evolution-X-Devices/vendor_lge_timelm" path="vendor/lge/timelm" remote="github" revision="bka" />
+  <project name="kiy017/vendor_lge_timelm" path="vendor/lge/timelm" remote="github" revision="bka" />
 
 </manifest>
