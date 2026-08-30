@@ -12,4 +12,8 @@
   <!-- Vendor -->
   <project name="kiy017/vendor_lge_timelm" path="vendor/lge/timelm" remote="github" revision="bka" />
 
+  <remove-project name="build_soong" />
+
+  <project name="kiy017/build_soong" path="build/soong" remote="github" revision="cnb" />
+
 </manifest>
